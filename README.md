@@ -1,5 +1,5 @@
-# 💫 About Me:
-data scientist 
+# DYLAN Z FERNANDES 
+** DATA SCIENTIST and AI ENTHUSIAST **
 
 
 ## 🌐 Socials:
