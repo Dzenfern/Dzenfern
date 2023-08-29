@@ -4,7 +4,7 @@
 
 <img align ="right" id = "landing" src ="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130" height="130" >
 
-Hi, I'm Dylan; a data science enthusiast, AI admirer, Data geek, web development hobbyist and may other things, but simply put I'm a boy who is still amazed by what a few lines of codes can do. I love to explore new datasets and find interesting insights. I have experience in Python,SQL and have dabbled in frontend development. I'm currently working on improving my data skills and I'm always open to collaborate with other data lovers, so feel free to reach out to me if you have any ideas or questions. Happy coding!
+Hi, I'm Dylan; a data science enthusiast, AI admirer, Data geek, web development hobbyist and many other things, but simply put I'm a boy who is still amazed by what a few lines of codes can do. I love to explore new datasets and find interesting insights. I have experience in Python,SQL and have dabbled in frontend development. I'm currently working on improving my data skills and I'm always open to collaborate with other data lovers, so feel free to reach out to me if you have any ideas or questions. Happy coding!
 ---
 
 ### 🧰 Languages and Tools
