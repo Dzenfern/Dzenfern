@@ -1,22 +1,47 @@
 # 👽 DYLAN Z FERNANDES
 
-**`DATA DECIPHERER | AI ENTHUSIAST`**
+**`BACKEND ENGINEER | BUILDING INTELLIGENT SYSTEMS`**
 
-<img align ="right" id = "landing" src ="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130" height="130" >
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="130" height="130">
 
-Hi, I'm Dylan; a data science enthusiast, AI admirer, Data geek, web development hobbyist and many other things, but simply put I'm a boy who is still amazed by what a few lines of code can do. I love to explore new datasets and find interesting insights. I have experience in python,SQL and have dabbled in frontend development. I'm currently working on improving my data skills and I'm always open to collaborate with other data lovers, so feel free to reach out to me if you have any ideas or questions. Happy coding!
+Hi, I'm Dylan. I'm a backend engineer who enjoys building scalable systems and occasionally making them a little smarter with machine learning.
+
+Most of my recent work revolves around **Java, Spring Boot, Kafka, Redis, MongoDB, and system design**, while I'm also exploring how ML can be integrated into real-world applications rather than existing only inside notebooks.
+
+I enjoy understanding how things work under the hood—whether that's authentication flows, distributed systems, caching strategies, transformers, or implementing algorithms from scratch. If there's a rabbit hole to disappear into, I'll probably end up there.
+
+Currently building projects that bridge **software engineering and machine learning**, one over-engineered side project at a time.
+
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages & Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 &nbsp;
+
 <details>
-  <summary><h3>👨‍💻 Dylan's Journey So Far </h3></summary>
+<summary><h3>👨‍💻 Dylan's Journey So Far</h3></summary>
+
+Started with Python and machine learning, discovered that I also loved building software.
+These days I'm interested in building reliable, scalable applications and integrating ML where it genuinely adds value—not just because it's trendy.
+
+There's still a lot to learn, and that's probably my favorite part.
+
+</details>
